@@ -1,30 +1,49 @@
 # Hi, I'm Ibrahim
 
-I'm a third year Software Engineering student at the University of Glasgow with an
-interest in software development, artificial intelligence and automation.
+MSci Software Engineering student at the University of Glasgow with a strong interest in software engineering, AI and automation.
 
-## Technical Skills
+I enjoy building practical software that solves real problems, particularly Python automation systems, backend applications and web based tools.
 
-- Python
-- Java
-- JavaScript
-- SQL
-- FastAPI
-- React
-- HTML & CSS
-- Git/GitHub
+## Currently Building
 
-## Featured Projects
+### Trading Automation System
+Python based automated trading system integrating Telegram with MetaTrader 5.
 
-### Automated Trading Signal System
-Python application integrating Telegram with MetaTrader 5 to parse,
-validate and execute real-time trading signals.
+- Processes and parses real time trading signals
+- Validates entry, stop loss and take profit data
+- Automatically executes and manages trades through MetaTrader 5
+- Tracks trade performance and outcomes
+- Built using a modular Python architecture
 
-### Software Engineering Team Project
-Collaborated with five engineers over a full semester using a shared
-GitHub codebase, achieving an A1 grade.
+### AI Automation Projects
+Developing AI powered automation systems designed to solve business problems and reduce repetitive tasks.
 
-## Currently
+- Building automated workflows and AI integrations
+- Working with APIs and external services
+- Exploring practical applications of AI for businesses
 
-🎓 MSci Software Engineering - University of Glasgow  
-💻 Interested in Software Engineering, AI and Automation
+### Web Development
+Designing and developing responsive websites and web applications for businesses, focusing on functionality, performance and user experience.
+
+## Tech
+
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS` `React` `FastAPI` `Git` `GitHub` `REST APIs`
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Backend Engineering
+- REST APIs & Databases
+- Software Testing
+- AI & Automation
+- Full-Stack Development
+
+## University
+
+Currently studying **MSci Software Engineering at the University of Glasgow**.
+
+Relevant areas of study include Algorithms & Data Structures, Object-Oriented Programming, Web Application Development, Computer Systems, Networks and Operating Systems.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ibrahim-ilyas/)
