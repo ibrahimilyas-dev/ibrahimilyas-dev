@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ibrahim
 
-<!--
-**Ibrahim78612/ibrahim78612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year Software Engineering student at the University of Glasgow with an
+interest in software development, artificial intelligence and automation.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- JavaScript
+- SQL
+- FastAPI
+- React
+- HTML & CSS
+- Git/GitHub
+
+## Featured Projects
+
+### Automated Trading Signal System
+Python application integrating Telegram with MetaTrader 5 to parse,
+validate and execute real-time trading signals.
+
+### Software Engineering Team Project
+Collaborated with five engineers over a full semester using a shared
+GitHub codebase, achieving an A1 grade.
+
+## Currently
+
+🎓 MSci Software Engineering - University of Glasgow  
+💻 Interested in Software Engineering, AI and Automation
